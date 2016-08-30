@@ -1,15 +1,15 @@
 ## Title of Talk / Panel / Workshop / Artwork
-Name : sa friend / Rachel Boyce
+Name : sa friend / R Boyce
 
 Location : Toronto, CA / Bronx, NY
 
-Email : sarah.anne.friend@gmail.com /
+Email : sarah.anne.friend@gmail.com / rfboyce@gmail.com
 
-Twitter : [@isthisanart_](https://twitter.com/isthisanart_) /
+Twitter : [@isthisanart_](https://twitter.com/isthisanart_) / [@roastbeest](https://twitter.com/roastbeest)
 
-GitHub : [ana0](https://github.com/ana0) /
+GitHub : [ana0](https://github.com/ana0) / [arebe](https://github.com/arebe)
 
-Url(s) : [sarahfriend.com](http://sarahfriend.com/) /
+Url(s) : [sarahfriend.com](http://sarahfriend.com/) / [arebe.us](http://arebe.us)
 
 
 ## Type of proposal
@@ -18,7 +18,7 @@ Artwork
 ## Description of your talk / panel / workshop / artwork
 [Description goes here. Try to keep it under 300 words, but more than 140 characters. Note that panels should follow a moderator / discussion format, with possible participation from the audience.]
 
-A participatory art performance. We will guide participants through a chaos magic ritual to feed and strengthen the egregore of NYC Mesh. 
+A participatory art performance. We will guide participants through a chaos magic ritual to feed and strengthen the egregore of NYC Mesh and ward against malicious breach of privacy from unwanted entities. 
 
 ## Length of talk / panel / workshop
 1 hour
