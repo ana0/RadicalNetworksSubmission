@@ -16,8 +16,6 @@ Url(s) : [sarahfriend.com](http://sarahfriend.com/) / [arebe.us](http://arebe.us
 Artwork
 
 ## Description of your talk / panel / workshop / artwork
-[Description goes here. Try to keep it under 300 words, but more than 140 characters. Note that panels should follow a moderator / discussion format, with possible participation from the audience.]
-
 A participatory art performance. We will guide participants through a chaos magic ritual to feed and strengthen the egregore of NYC Mesh and ward against malicious breach of privacy from unwanted entities. 
 
 In chaos magic, an egregore is an emergent phenomena similar to the genus loci, or spirit of a place.  This performance will engage participants in actively co-creating such a communal entity, using a network-hosted smart phone app and the power of their intention. Participants should be ready to connect with their subconscious and/or minor godlike beings and get weird. 
@@ -30,7 +28,7 @@ This workshop will be at once in the style of community-driven design practice, 
 1 hour workshop / participatory performance 
 
 ## Workshop technical requirements and materials list
-No maximum number of attendees - we can provide all materials except a network connection and power.  Attendees are requested to have a cell phone or computer.  Permission to light candles, if possible
+No maximum number of attendees - we can provide all materials except a network connection and power.  Attendees are requested to have a cell phone or computer.  Permission to light candles requested.
 
 ## Artwork installation requirements
 N/A
