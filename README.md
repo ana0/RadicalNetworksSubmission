@@ -36,7 +36,7 @@ N/A
 ## Speaker Bio
 ![sa friend](https://github.com/ana0/RadicalNetworksSubmission/blob/master/assets/myfacesmaller.jpg?raw=true)
 
-ss friend is an artist, researcher, and technologist. She's currently studying blockchain interfaces and game design at Recurse Center. Before that, she was the senior designer and production director at Guild Eyewear, a start up that manufactures mass-customizable glasses.  She is also the founder of Small Talk, an Interdisciplinary Lecture Series.
+sa friend is an artist, researcher, and technologist. She's currently studying blockchain interfaces and game design at Recurse Center. Before that, she was the senior designer and production director at Guild Eyewear, a start up that manufactures mass-customizable glasses.  She is also the founder of Small Talk, an Interdisciplinary Lecture Series.
 
 ![RBoyce](http://arebe.us/images/rb_toronto_desat_sm.jpg)
 
