@@ -20,7 +20,7 @@ Artwork
 
 A participatory art performance. We will guide participants through a chaos magic ritual to feed and strengthen the egregore of NYC Mesh and ward against malicious breach of privacy from unwanted entities. 
 
-This performance will engage participants in actively co-creating a communal entity, using a network-hosted smart phone app and the power of their intention. Participants should be ready to connect with their subconscious and get weird. 
+This performance will engage participants in actively co-creating a communal entity, using a network-hosted smart phone app and the power of their intention. Participants should be ready to connect with their subconscious and/or minor godlike beings and get weird. 
 
 The mini-workshop session will cover the basics of chaos magic and working with collective emergent entities. We will then brainstorm our collective intentions for the NYC mesh network, and create a ward against malicious intrusion into the network and our devices. We will then ritualistically cast our intent into the distributed void.
 
