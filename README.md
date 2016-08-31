@@ -34,7 +34,7 @@ No maximum number of attendees - we can provide all materials except a network c
 N/A
 
 ## Speaker Bio
-![sa friend](https://pbs.twimg.com/profile_images/612082653978882048/Emxp8sCk.png)
+![sa friend](https://github.com/ana0/RadicalNetworksSubmission/blob/master/assets/myfacesmaller.jpg?raw=true)
 
 ss friend is an artist, researcher, and technologist. She's currently studying blockchain interfaces and game design at Recurse Center. Before that, she was the senior designer and production director at Guild Eyewear, a start up that manufactures mass-customizable glasses.  She is also the founder of Small Talk, an Interdisciplinary Lecture Series.
 
