@@ -33,3 +33,6 @@ Power, a network connection, permission to light candles
 [URL to bio picture goes here. Format for bio picture should be PNG/JPG/GIF, 256x256.]
 
 [Bio goes here. I'm an example bio. My background includes this and that. I've also contributed to these projects. These are some of my interests.]
+
+![RBoyce](http://arebe.us/images/rb_toronto_desat_sm.jpg)
+RB is a creative technologist and digital renaissance human with a background that spans web development to microbiology. They recently completed a Master's degree in digital media design, with a capstone project of lo-fi augmented reality for the mobile web and currently hold the position of Interactive Developer at Complex Media. RB's prime directive is to create cultural tools for a post-scarcity world, that help people engage with each other and the larger social organism, through the merging of data art, co-curation, and transmedia narrative techniques. Ongoing projects include THE BOX: a series of sensual micro-environments, and Dream Cacher: an exploration of dream data.
